@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+[![Twitter Badge](https://img.shields.io/twitter/follow/Jorgehio?style=social)]
 <!--
 **jorge-g99/jorge-g99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
