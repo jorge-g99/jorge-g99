@@ -1,7 +1,7 @@
 ### Olá! Eu sou Jorge Gabriel Rodrigues
  
 - 🔭 Hoje trabalho como Consultor Full Stack
-- 🌱 Estudando Typescript, Python e Ciência de Dados
+- 🌱 Estudando JavaScript, Front-End e .Net
 - 😄 Pronouns: ele/dele
 
 <div>
