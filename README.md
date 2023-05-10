@@ -1,8 +1,7 @@
-### Olá! Eu sou Jorge Gabriel Rodrigues
+### Hi! I'm Jorge Gabriel Rodrigues
  
-- 🔭 Desenvolvedor de software
-- 🌱 Estudando JavaScript, Front-End e Python
-- 😄 Pronouns: ele/dele
+- 🔭 Software Developer
+- 🌱 Studying TS, React and Python
 
 <div>
   <a href="https://github.com/jorge-g99">
