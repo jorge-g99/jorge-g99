@@ -1,6 +1,6 @@
 ### Olá! Eu sou Jorge Gabriel Rodrigues
  
-- 🔭 Hoje trabalho como Consultor de TI e desenvolvedor de software
+- 🔭 Desenvolvedor de software
 - 🌱 Estudando JavaScript, Front-End e Python
 - 😄 Pronouns: ele/dele
 
