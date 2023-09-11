@@ -2,7 +2,7 @@
  
 - 🔭 Software Developer
 - 🌱 Studying TS, React and Python
- 
+
 <div>
   <a href="https://github.com/jorge-g99">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jorge-g99&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
