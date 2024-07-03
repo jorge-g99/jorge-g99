@@ -1,7 +1,7 @@
 ### Hi! I'm Jorge Gabriel Rodrigues
  
-- 🔭 Software Developer
-- 🌱 Studying TS, React and Python
+- 🧑‍💻 Software Developer
+- 🌱 Studying Mobile Android
 
 <div>
   <a href="https://github.com/jorge-g99">
