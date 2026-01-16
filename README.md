@@ -1,7 +1,7 @@
 ### Hi! I'm Jorge Gabriel Rodrigues
  
-- 🧑‍💻 Software Developer
-- 🌱 Studying Mobile Android
+- 🧑‍💻 Software Engineer
+- 🌱 Studying Mobile Android & PHP
 
 <div>
   <a href="https://github.com/jorge-g99">
@@ -18,6 +18,7 @@
   <img align="center" alt="jg-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="jg-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="jg-ruby" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">
+  <img align="center" alt="jg-php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   
 </div>
  
