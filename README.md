@@ -2,11 +2,6 @@
  
 - 🧑‍💻 Software Engineer
 - 🌱 Studying Mobile Android & PHP
-
-<div>
-  <a href="https://github.com/jorge-g99">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=jorge-g99&show_icons=true&theme=tokyonight"/>
-</div>
  
 <div style="display: inline_block"><br>
   <img align="center" alt="jg-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -18,7 +13,6 @@
   <img align="center" alt="jg-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="jg-ruby" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">
   <img align="center" alt="jg-php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  
 </div>
  
  ##
